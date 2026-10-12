@@ -1,0 +1,8 @@
+{
+  "detector_weights": "models/best.pt",
+  "segmenter_weights": "models/seg_best.pt",
+  "imgsz": 1024,
+  "max_upload_mb": 25,
+  "max_megapixels": 40,
+  "calibration_profiles": {}
+}
